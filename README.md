@@ -20,6 +20,6 @@ Main:
 
 Minor: 
 
-    2.Move trial start together with odor start
-    2. Transfer to Matlab shiff threshold level
+    1.Move trial start together with odor start
+    2.Transfer to Matlab shiff threshold level
     
