@@ -1,4 +1,4 @@
-# deltaC-behavioral
+# deltaC-behavior
 Arduino protocols for deltaC behavioral experiments
 
 This is Arduino code to run behavioral experiments in concentration changes discrimination.
